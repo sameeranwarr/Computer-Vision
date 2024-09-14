@@ -24,5 +24,5 @@ This script performs the following actions:
 ## `images/` Folder
 
 The `images` folder contains two example image files:
-- `bmw1.jpg`: This image is shows the right rear light of the car.
+- `bmw1.jpg`: This image shows the left rear light of the car.
 - `bmw2.jpg`: This image shows the side view of the car.
